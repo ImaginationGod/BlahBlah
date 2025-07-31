@@ -13,7 +13,7 @@
 
 ## 🔗 Live Demo
 
-🚀 **[View BlahBlah on Render](https://rentalzindia.onrender.com)**
+🚀 **[View BlahBlah on Render](https://blahblah-6gob.onrender.com)**
 
 ---
 
